@@ -30,6 +30,7 @@
         android:layout_width="230dp"
         android:layout_height="230dp"
         android:layout_marginTop="54dp"
+        android:background="@drawable/tv_bg"
         android:id="@+id/videoView"
         android:layout_gravity="center_horizontal" />
 </LinearLayout>
